@@ -7,7 +7,7 @@ As soluções são escritas em Python e incluem comentários para explicar a ló
 # Como Contribuir
 Se você tiver sugestões de melhorias nas soluções existentes, quiser adicionar novos exercícios ou corrigir algum problema, sinta-se à vontade para contribuir! Basta seguir estes passos:
 
-# Faça um fork do repositório.
+Faça um fork do repositório.<br>
 Crie uma branch para suas alterações: git checkout -b minha-contribuicao.<br>
 Faça as alterações desejadas e faça commit: git commit -m 'Minha contribuição'.<br>
 Envie as alterações para sua branch no seu fork: git push origin minha-contribuicao.<br>

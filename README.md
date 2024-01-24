@@ -10,6 +10,6 @@ Se você tiver sugestões de melhorias nas soluções existentes, quiser adicion
 # Faça um fork do repositório.
 Crie uma branch para suas alterações: git checkout -b minha-contribuicao.<br>
 Faça as alterações desejadas e faça commit: git commit -m 'Minha contribuição'.<br>
-Envie as alterações para sua branch no seu fork: git push origin minha-contribuicao.
-Abra um pull request para revisão.
+Envie as alterações para sua branch no seu fork: git push origin minha-contribuicao.<br>
+Abra um pull request para revisão.<br>
 

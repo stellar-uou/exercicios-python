@@ -8,8 +8,8 @@ As soluções são escritas em Python e incluem comentários para explicar a ló
 Se você tiver sugestões de melhorias nas soluções existentes, quiser adicionar novos exercícios ou corrigir algum problema, sinta-se à vontade para contribuir! Basta seguir estes passos:
 
 # Faça um fork do repositório.
-Crie uma branch para suas alterações: git checkout -b minha-contribuicao.\n
-Faça as alterações desejadas e faça commit: git commit -m 'Minha contribuição'.\n
-Envie as alterações para sua branch no seu fork: git push origin minha-contribuicao.\n
-Abra um pull request para revisão.\n
+Crie uma branch para suas alterações: git checkout -b minha-contribuicao.<br>
+Faça as alterações desejadas e faça commit: git commit -m 'Minha contribuição'.<br>
+Envie as alterações para sua branch no seu fork: git push origin minha-contribuicao.
+Abra um pull request para revisão.
 

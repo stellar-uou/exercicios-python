@@ -1,1 +1,14 @@
+#variáveis das notas do aluno
+nota1, nota2, nota3 = map(float, input("Insira suas três notas: ").split())
 
+media = (nota1 + nota2 + nota3) / 3
+
+def resultado():
+    
+    if media >= 6:
+        return "Aprovado"
+        
+    else:
+        return "Reprovado"
+
+print(f"Média = {media:.2f}\n{resultado()}")
